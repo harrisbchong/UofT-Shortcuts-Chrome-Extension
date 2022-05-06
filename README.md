@@ -1,6 +1,6 @@
 # UofT Shortcuts Google Chrome Extension 
 
-Google Chrome extension that you can easily access important websites for students at the University of Toronto
+Google Chrome extension that allows you to easily access important websites for students at the University of Toronto.
 
 # Websites currently supported
 
