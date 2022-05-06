@@ -2,6 +2,7 @@
 
 A Google Chrome extension made mostly with HTML and CSS, which allows you to easily access important websites for students at the University of Toronto.
 
+![exten](https://user-images.githubusercontent.com/98196770/167227390-1f1e068a-5f57-4d09-8608-83d653dda365.PNG)
 # Websites that are currently supported
 
 - Quercus
