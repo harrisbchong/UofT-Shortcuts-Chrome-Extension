@@ -1,6 +1,6 @@
 # UofT Shortcuts Google Chrome Extension 
 
-A Google Chrome extension made with mostly HTML and CSS which allows you to easily access important websites for students at the University of Toronto.
+A Google Chrome extension made mostly with HTML and CSS, which allows you to easily access important websites for students at the University of Toronto.
 
 # Websites that are currently supported
 
